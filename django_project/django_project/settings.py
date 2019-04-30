@@ -131,7 +131,7 @@ LOGIN_REDIRECT_URL = 'blog-home'
 LOGIN_URL = 'login'
 
 # EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-SENDGRID_API_KEY = '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'
+SENDGRID_API_KEY = ''
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.sendgrid.net'
 EMAIL_HOST_USER = 'Vinna28'
